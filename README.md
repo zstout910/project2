@@ -9,5 +9,10 @@ HOW TO USE:
 5. view gif from Giphy below search bar
 6. navigate pages at the bottom of page
 
-This is my Giphy image search engine I was inspired by the look of google but with a red and black color theme.
+included is:
+1. mobile wireframe png
+2. desktop wireframe png
+3. index.html
+4. style.css
+5. search.js
 
